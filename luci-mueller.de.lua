@@ -5,5 +5,5 @@
 -- _a = "luci-mueller.de"
 
 -- A records
-a("klml", "95.143.172.147")
+a("klml", "78.46.0.150")
 redirect(_a, "http://klml.de")
