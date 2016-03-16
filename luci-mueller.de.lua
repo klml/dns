@@ -7,3 +7,4 @@
 -- A records
 a("klml", "78.46.0.150")
 redirect(_a, "http://klml.de")
+forward("*", "luci@klml.de")
