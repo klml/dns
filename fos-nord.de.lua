@@ -6,3 +6,4 @@
 
 -- A records
 redirect(_a, "http://www.fos-nord.musin.de/")
+redirect("www", "http://www.fos-nord.musin.de/")
